@@ -88,7 +88,7 @@ export default function HomePage() {
             <div className="lg:col-span-7 space-y-6 text-center lg:text-left">
               <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-sky-950/80 border border-sky-500/30 text-sky-300 text-xs font-semibold tracking-wide shadow-sm">
                 <Sparkles className="w-3.5 h-3.5 text-sky-400" />
-                <span>iTech MM Solutions • Intas MN Technology</span>
+                <span>iTech MM Solutions</span>
               </div>
 
               <h1 className="text-4xl sm:text-5xl lg:text-6xl font-extrabold tracking-tight text-white leading-[1.15]">
@@ -249,13 +249,13 @@ export default function HomePage() {
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
             <div className="lg:col-span-6 space-y-6">
               <div className="inline-flex items-center gap-2 px-3 py-1 rounded-md bg-sky-100 text-sky-800 text-xs font-bold uppercase tracking-wider">
-                About Intas MN Technology
+                About iTech MM Solutions
               </div>
               <h2 className="text-3xl sm:text-4xl font-bold text-slate-900 tracking-tight leading-tight">
                 Empowering businesses with robust, high-caliber software engineering.
               </h2>
               <p className="text-slate-600 leading-relaxed">
-                At <strong>iTech MM Solutions</strong> (Intas MN Technology), we believe technology should be an accelerator, not an obstacle. Our multidisciplinary engineering team combines modern frontend experiences, robust backend systems, and rock-solid cloud infrastructure to deliver digital products that scale.
+                At <strong>iTech MM Solutions</strong> , we believe technology should be an accelerator, not an obstacle. Our multidisciplinary engineering team combines modern frontend experiences, robust backend systems, and rock-solid cloud infrastructure to deliver digital products that scale.
               </p>
               <div className="space-y-3">
                 <div className="flex items-start gap-3">

@@ -8,10 +8,10 @@ This block is written and re-added by `next dev` — verify at `node_modules/nex
 
 <!-- END:nextjs-agent-rules -->
 
-# AGENTS.md — iTech MM Solutions (Intas MN Technology) Website
+# AGENTS.md — iTech MM Solutions  Website
 
 ## Project Goal
-Build a professional company information website for **iTech MM Solutions** (Intas MN Technology) with four public navigation items:
+Build a professional company information website for **iTech MM Solutions**  with four public navigation items:
 - Home
 - About Us
 - Services

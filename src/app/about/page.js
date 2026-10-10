@@ -16,7 +16,7 @@ import {
 export const metadata = {
   title: "About Us | iTech MM Solutions",
   description:
-    "Learn about iTech MM Solutions (Intas MN Technology), our mission, vision, engineering principles, and commitment to delivering exceptional software solutions.",
+    "Learn about iTech MM Solutions , our mission, vision, engineering principles, and commitment to delivering exceptional software solutions.",
 };
 
 const VALUES = [
@@ -55,7 +55,7 @@ export default function AboutPage() {
             About <span className="text-sky-400">iTech MM Solutions</span>
           </h1>
           <p className="mt-4 text-slate-300 max-w-2xl mx-auto text-base sm:text-lg">
-            Intas MN Technology is a technology solutions provider focused on software development, digital engineering, and cloud deployment in Myanmar.
+            iTech MM Solutions is a technology solutions provider focused on software development, digital engineering, and cloud deployment in Myanmar.
           </p>
         </div>
       </section>
@@ -85,7 +85,7 @@ export default function AboutPage() {
                   </div>
                   <div className="flex justify-between py-1 border-b border-slate-200">
                     <span className="font-semibold text-slate-700">Company Name:</span>
-                    <span className="text-slate-900 font-medium">Intas MN Technology</span>
+                    <span className="text-slate-900 font-medium">iTech MM Solutions</span>
                   </div>
                   <div className="flex justify-between py-1 border-b border-slate-200">
                     <span className="font-semibold text-slate-700">Headquarters:</span>
@@ -115,7 +115,7 @@ export default function AboutPage() {
                 Empowering businesses with purpose-built digital infrastructure.
               </h2>
               <p className="text-slate-600 leading-relaxed text-base">
-                iTech MM Solutions (Intas MN Technology) was established to bridge the gap between business objectives and technical execution. We combine contemporary frontend engineering, scalable backend microservices, and reliable VPS hosting architectures to build platforms that perform reliably under pressure.
+                iTech MM Solutions  was established to bridge the gap between business objectives and technical execution. We combine contemporary frontend engineering, scalable backend microservices, and reliable VPS hosting architectures to build platforms that perform reliably under pressure.
               </p>
               <p className="text-slate-600 leading-relaxed text-base">
                 Whether you need a bespoke web portal, an iOS/Android mobile product, or an automated workflow connecting your internal databases, our team adheres to modern development standards, secure coding practices, and high test coverage.

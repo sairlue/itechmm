@@ -5,7 +5,7 @@ import { Mail, Phone, MapPin, Clock, ShieldCheck, CheckCircle2 } from "lucide-re
 export const metadata = {
   title: "Contact Us | iTech MM Solutions",
   description:
-    "Get in touch with iTech MM Solutions (Intas MN Technology). Submit a project inquiry, request a technical consultation, or discuss custom software development.",
+    "Get in touch with iTech MM Solutions . Submit a project inquiry, request a technical consultation, or discuss custom software development.",
 };
 
 export default function ContactPage() {

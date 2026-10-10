@@ -64,7 +64,7 @@ export default function Footer() {
               </div>
             </div>
             <p className="text-slate-400 text-sm leading-relaxed max-w-md">
-              <strong className="text-white">iTech MM Solutions</strong> (Intas MN Technology) delivers high-impact digital engineering, custom software development, cloud infrastructure, and AI automation for businesses across Myanmar and beyond.
+              <strong className="text-white">iTech MM Solutions</strong>  delivers high-impact digital engineering, custom software development, cloud infrastructure, and AI automation for businesses across Myanmar and beyond.
             </p>
             <div className="flex items-center space-x-3 pt-2">
               <span className="w-9 h-9 rounded-lg bg-slate-900 border border-slate-800 flex items-center justify-center text-slate-400 hover:text-sky-400 hover:border-sky-500/50 transition-colors cursor-pointer" title="Global Network">
@@ -184,7 +184,7 @@ export default function Footer() {
 
         {/* Bottom copyright & notes */}
         <div className="mt-12 pt-6 border-t border-slate-900 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-slate-500">
-          <p>© {currentYear} iTech MM Solutions (Intas MN Technology). All rights reserved.</p>
+          <p>© {currentYear} iTech MM Solutions . All rights reserved.</p>
           <div className="flex items-center space-x-6">
             <span className="hover:text-slate-400 cursor-pointer">Privacy Policy</span>
             <span className="hover:text-slate-400 cursor-pointer">Terms of Service</span>

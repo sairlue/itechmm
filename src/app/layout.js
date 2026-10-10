@@ -8,10 +8,9 @@ export const metadata = {
     default: "iTech MM Solutions | Innovative Digital & Software Engineering",
   },
   description:
-    "iTech MM Solutions (Intas MN Technology) provides cutting-edge web applications, mobile apps, enterprise software, cloud infrastructure, and AI automation.",
+    "iTech MM Solutions  provides cutting-edge web applications, mobile apps, enterprise software, cloud infrastructure, and AI automation.",
   keywords: [
     "iTech MM Solutions",
-    "Intas MN Technology",
     "Software Development Myanmar",
     "Web Application Development",
     "Mobile App Development",
