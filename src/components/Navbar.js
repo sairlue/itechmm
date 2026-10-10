@@ -31,6 +31,10 @@ export default function Navbar() {
     setMobileMenuOpen(false);
   }, [pathname]);
 
+  if (pathname && pathname.startsWith("/admin")) {
+    return null;
+  }
+
   return (
     <>
       {/* Top micro-bar */}

@@ -1,9 +1,17 @@
+"use client";
+
 import Link from "next/link";
 import Image from "next/image";
+import { usePathname } from "next/navigation";
 import { Mail, Phone, MapPin, Clock, ArrowRight, Globe, Share2, MessageSquare, Terminal } from "lucide-react";
 
 export default function Footer() {
   const currentYear = 2026;
+  const pathname = usePathname();
+
+  if (pathname && pathname.startsWith("/admin")) {
+    return null;
+  }
 
   return (
     <footer className="bg-slate-950 text-slate-300 border-t border-slate-800">
